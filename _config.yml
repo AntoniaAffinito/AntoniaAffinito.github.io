@@ -14,7 +14,7 @@ title_separator          : "-"
 name                     : &name "Antonia Affinito"
 description              : &description "personal description"
 url                      : "https://antoniaaffinito.github.io" # the base hostname "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "/PersonalSite" #/Academic-Website-2"
+baseurl                  : "" #/Academic-Website-2"
 repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
