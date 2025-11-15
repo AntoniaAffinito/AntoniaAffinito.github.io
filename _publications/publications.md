@@ -13,7 +13,7 @@ permalink: /publications/
   Matteo Liberato, Antonia Affinito, Bernd Meijerink, Mattijs Jonker, Alessio Botta, Anna Sperotto (2025)  
   9th Network Traffic Measurement and Analysis Conference, TMA 2025
   
-  - **Analyzing Privacy Implications of Mobile Apps Data Collection across Age Groups**  
+- **Analyzing Privacy Implications of Mobile Apps Data Collection across Age Groups**  
   Adamo Mariani, Matteo Liberato, Anna Sperotto, Antonia Affinito (2024)  
   2024 20th International Conference on Network and Service Management (CNSM), pp. 1–7
   
@@ -21,23 +21,23 @@ permalink: /publications/
   Raffaele Sommese, Gautam Akiwate, Antonia Affinito, Moritz Muller, Mattijs Jonker, KC Claffy (2024)  
   Proceedings of the 2024 ACM on Internet Measurement Conference, pp. 454–461
   
-  - **Prediction of RTT Through Radio-Layer Parameters in 4G/5G Dual-Connectivity Mobile Networks**  
+- **Prediction of RTT Through Radio-Layer Parameters in 4G/5G Dual-Connectivity Mobile Networks**  
   Stefania Zinno, Antonia Affinito, Nicola Pasquino, Giorgio Ventre, Alessio Botta (2023)  
   2023 IEEE Symposium on Computers and Communications (ISCC), pp. 213–218
   
-  - **Where. ru? Assessing the impact of conflict on Russian domain infrastructure**  
+- **Where. ru? Assessing the impact of conflict on Russian domain infrastructure**  
   Mattijs Jonker, Gautam Akiwate, Antonia Affinito, KC Claffy, Alessio Botta, Geoffrey Voelker, Roland van Rijswijk-Deij, Stefan Savage (2022)  
   Proceedings of the 22nd ACM Internet Measurement Conference, pp. 159–165
   
-  - **Local and public DNS resolvers: do you trade off performance against security?**  
+- **Local and public DNS resolvers: do you trade off performance against security?**  
   Antonia Affinito, Alessio Botta, Giorgio Ventre (2022)  
   2022 IFIP Networking Conference (IFIP Networking), pp. 1–9
   
-  - **Domain name lifetimes: baseline and threats**  
+- **Domain name lifetimes: baseline and threats**  
   Antonia Affinito, Raffaele Sommese, Gautam Akiwate, Stefan Savage, Geoffrey Voelker, Alessio Botta, Mattijs Jonker, et al. (2022)  
   Network Traffic Measurement and Analysis Conference (TMA)
   
-  - **The impact of covid on network utilization: an analysis on domain popularity**  
+- **The impact of covid on network utilization: an analysis on domain popularity**  
   Antonia Affinito, Alessio Botta, Giorgio Ventre (2020)  
   2020 IEEE 25th International Workshop on Computer Aided Modeling and Design of Communication Links and Networks (CAMAD), pp. 1–6
   
